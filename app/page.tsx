@@ -23,8 +23,8 @@ export default function Home() {
       <Digital />
       <Beliefs />
       <Wework />
-      <Ourteam />
       {/* <Featured /> */}
+      <Ourteam />
       <Manage />
       <FAQ />
       <Testimonials />
